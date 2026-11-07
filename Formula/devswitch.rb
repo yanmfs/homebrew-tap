@@ -3,8 +3,8 @@ class Devswitch < Formula
   include Language::Python::Virtualenv
 
   desc "Switch safely between Claude Code and Codex with persistent context"
-  homepage "https://github.com/yanmfs/devswitch"
-  url "https://github.com/yanmfs/devswitch/releases/download/v1.3.0/devswitch-1.3.0.tar.gz"
+  homepage "https://github.com/yanmfs/DevSwitch"
+  url "https://github.com/yanmfs/DevSwitch/releases/download/v1.3.0/devswitch-1.3.0.tar.gz"
   version "1.3.0"
   sha256 "358d8d82df321a94bb83e29f281184284331f9ae66916f08f198c08df446bf83"
   license "MIT"
